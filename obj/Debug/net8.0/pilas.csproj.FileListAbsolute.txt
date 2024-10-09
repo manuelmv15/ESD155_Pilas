@@ -1,0 +1,14 @@
+/home/manuel/Documentos/estructura/computo3/pilas/bin/Debug/net8.0/pilas
+/home/manuel/Documentos/estructura/computo3/pilas/bin/Debug/net8.0/pilas.deps.json
+/home/manuel/Documentos/estructura/computo3/pilas/bin/Debug/net8.0/pilas.runtimeconfig.json
+/home/manuel/Documentos/estructura/computo3/pilas/bin/Debug/net8.0/pilas.dll
+/home/manuel/Documentos/estructura/computo3/pilas/bin/Debug/net8.0/pilas.pdb
+/home/manuel/Documentos/estructura/computo3/pilas/obj/Debug/net8.0/pilas.GeneratedMSBuildEditorConfig.editorconfig
+/home/manuel/Documentos/estructura/computo3/pilas/obj/Debug/net8.0/pilas.AssemblyInfoInputs.cache
+/home/manuel/Documentos/estructura/computo3/pilas/obj/Debug/net8.0/pilas.AssemblyInfo.cs
+/home/manuel/Documentos/estructura/computo3/pilas/obj/Debug/net8.0/pilas.csproj.CoreCompileInputs.cache
+/home/manuel/Documentos/estructura/computo3/pilas/obj/Debug/net8.0/pilas.dll
+/home/manuel/Documentos/estructura/computo3/pilas/obj/Debug/net8.0/refint/pilas.dll
+/home/manuel/Documentos/estructura/computo3/pilas/obj/Debug/net8.0/pilas.pdb
+/home/manuel/Documentos/estructura/computo3/pilas/obj/Debug/net8.0/pilas.genruntimeconfig.cache
+/home/manuel/Documentos/estructura/computo3/pilas/obj/Debug/net8.0/ref/pilas.dll
