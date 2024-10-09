@@ -26,9 +26,7 @@
 
             // Acceder al elemento en la cima después de desapilar
             Console.WriteLine($"Elemento en la cima: {miPila.acceder(0)}");
-            Console.ReadKey();
-            Console.Clear();
-            Console.WriteLine("Cola");
+            
         }
         }
 }
